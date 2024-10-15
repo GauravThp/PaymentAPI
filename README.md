@@ -1,0 +1,1 @@
+A simple RESTful API built with ASP.NET Core to handle payment processing. This project demonstrates CRUD operations for managing payments, customers, and transactions, serving as a straightforward example of how to build and structure a .NET Core Web API.
